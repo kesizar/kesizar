@@ -3,7 +3,7 @@
   GitHub Profile README — 后续待填
   ============================================================
   已填：GitHub 用户名 kesizar、邮箱、置顶项目 nankai-CPP-AI-MUD-cyberworld。
-  仍可搜索 TODO 填写：About 列表、Tech Stack 图标。
+  仍可搜索 TODO 填写：About 中的交流话题。
   贪吃蛇：推送后在 Actions 中确认 Generate Snake 运行成功，
   才会在 output 分支生成 snake.svg。
   ============================================================
@@ -31,7 +31,7 @@
 
 - 🎓 南开大学软件学院本科生 <!-- TODO: 学历与身份，可补充年级、专业方向 -->
 - 🔭 当前方向：Agent
-- 🌱 正在学习：TODO <!-- TODO: 填写正在学习的技术或课程 -->
+- 🌱 正在学习：Python · PyTorch · LangChain
 - 💬 欢迎交流：TODO <!-- TODO: 填写欢迎交流的话题 -->
 - 📫 联系我：1766973074@qq.com
 
@@ -51,7 +51,7 @@
 
 <div align="center">
   <!-- 追加方法：在 i= 后用逗号分隔追加图标 id，例如 i=git,github,py,java,react,ts。图标列表见 https://skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=git,github,py,pytorch" alt="Tech stack" />
 </div>
 
 ---
