@@ -44,9 +44,3 @@
   <!-- 需先运行 .github/workflows/snake.yml，生成 output 分支上的 snake.svg -->
   <img src="https://raw.githubusercontent.com/kesizar/kesizar/output/snake.svg" alt="GitHub contribution snake" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:8B0012,50:1a1b26,100:7aa2f7" alt="footer" />
-</div>
