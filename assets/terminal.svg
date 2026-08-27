@@ -81,7 +81,7 @@
     <g class="flicker">
       <g class="phosphor">
       <text class="line" style="animation-delay:0.00s" x="40" y="80" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14">
-        <tspan fill="#ffbd2e">[boot]</tspan><tspan fill="#4d664d"> NKU-OS v2024.9 ... </tspan><tspan fill="#33ff66">OK</tspan>
+        <tspan fill="#ffbd2e">[boot]</tspan><tspan fill="#4d664d"> NKU-OS v2025.9 ... </tspan><tspan fill="#33ff66">OK</tspan>
       </text>
       <text class="line" style="animation-delay:0.15s" x="40" y="106" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14">
         <tspan fill="#ffbd2e">[boot]</tspan><tspan fill="#4d664d"> loading profile ... </tspan><tspan fill="#33ff66">OK</tspan>
