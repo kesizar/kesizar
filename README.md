@@ -2,7 +2,7 @@
   ============================================================
   GitHub Profile README — 后续待填
   ============================================================
-  已填：GitHub 用户名 kesizar、邮箱、两个置顶项目仓库。
+  已填：GitHub 用户名 kesizar、邮箱、置顶项目 nankai-CPP-AI-MUD-cyberworld。
   仍可搜索 TODO 填写：方向徽章、About 列表、Tech Stack 图标。
   贪吃蛇：推送后在 Actions 中确认 Generate Snake 运行成功，
   才会在 output 分支生成 snake.svg。
@@ -42,9 +42,6 @@
 <div align="center">
   <a href="https://github.com/kesizar/nankai-CPP-AI-MUD-cyberworld">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kesizar&repo=nankai-CPP-AI-MUD-cyberworld&theme=tokyonight" alt="nankai-CPP-AI-MUD-cyberworld" />
-  </a>
-  <a href="https://github.com/kesizar/2026-405-MathModel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kesizar&repo=2026-405-MathModel&theme=tokyonight" alt="2026-405-MathModel" />
   </a>
 </div>
 
