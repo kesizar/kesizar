@@ -1,6 +1,7 @@
 <div align="center">
   <img src="assets/header.svg" width="100%" alt="HAOYAN ZHANG" />
   <img src="assets/terminal.svg" width="100%" alt="terminal" />
+  <img src="assets/donut.svg" width="100%" alt="spinning ASCII donut" />
 </div>
 
 ---

@@ -58,7 +58,7 @@
     .cursor {
       opacity: 0;
       animation: blink 1s steps(1) infinite;
-      animation-delay: 2.25s;
+      animation-delay: 2.40s;
     }
 
     ]]></style>
@@ -128,7 +128,10 @@
         <tspan fill="#4d664d">GitHub:   </tspan><tspan fill="#33ff66">kesizar</tspan>
       </text>
       <text class="line" style="animation-delay:2.10s" x="40" y="522" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14" fill="#33ff66">欢迎交流：Agent · 大模型应用 · 游戏 AI</text>
-      <text class="line" style="animation-delay:2.25s" x="40" y="574" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14">
+      <text class="line" style="animation-delay:2.25s" x="40" y="548" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14">
+        <tspan fill="#33ff66">zhang</tspan><tspan fill="#1f9944">@nankai</tspan><tspan fill="#4d664d">:~$ </tspan><tspan fill="#ffbd2e">./donut --spin</tspan>
+      </text>
+      <text class="line" style="animation-delay:2.40s" x="40" y="574" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14">
         <tspan fill="#33ff66">zhang</tspan><tspan fill="#1f9944">@nankai</tspan><tspan fill="#4d664d">:~$ </tspan>
       </text>
       <rect class="cursor" x="176" y="561" width="9" height="16" fill="#33ff66"/>
