@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 800" width="900" height="800" role="img" aria-label="terminal">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" width="900" height="620" role="img" aria-label="terminal">
   <title>zhang@nankai: ~/profile — bash</title>
   <defs>
     <radialGradient id="crtBg" cx="50%" cy="42%" r="70%">
@@ -21,7 +21,7 @@
       <stop offset="100%" stop-color="#ccffdd" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="screenClip">
-      <rect x="16" y="16" width="868" height="768" rx="12"/>
+      <rect x="16" y="16" width="868" height="588" rx="12"/>
     </clipPath>
     <style type="text/css"><![CDATA[
 
@@ -34,7 +34,7 @@
     }
     @keyframes scanmove {
       from { transform: translateY(-60px); }
-      to { transform: translateY(800px); }
+      to { transform: translateY(620px); }
     }
     @keyframes flicker {
       0%, 100% { opacity: 1; }
@@ -58,16 +58,16 @@
     .cursor {
       opacity: 0;
       animation: blink 1s steps(1) infinite;
-      animation-delay: 2.85s;
+      animation-delay: 2.25s;
     }
 
     ]]></style>
   </defs>
 
   <!-- 1. 屏幕背景层 + 机身描边 -->
-  <rect x="4" y="4" width="892" height="792" rx="18" fill="#0a0e0a" stroke="#1a1a1a" stroke-width="10"/>
+  <rect x="4" y="4" width="892" height="612" rx="18" fill="#0a0e0a" stroke="#1a1a1a" stroke-width="10"/>
   <g clip-path="url(#screenClip)">
-    <rect x="16" y="16" width="868" height="768" rx="12" fill="url(#crtBg)"/>
+    <rect x="16" y="16" width="868" height="588" rx="12" fill="url(#crtBg)"/>
 
     <!-- 2. 终端标题栏 -->
     <rect x="16" y="16" width="868" height="36" fill="#121612"/>
@@ -122,32 +122,24 @@
         <text x="250" y="418" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14"><tspan fill="#4d664d">Contact:  </tspan><tspan fill="#33ff66">1766973074@qq.com</tspan></text>
       </g>
       <text class="line" style="animation-delay:1.80s" x="40" y="470" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14">
-        <tspan fill="#33ff66">zhang</tspan><tspan fill="#1f9944">@nankai</tspan><tspan fill="#4d664d">:~$ </tspan><tspan fill="#ffbd2e">ls projects/</tspan>
-      </text>
-      <text class="line" style="animation-delay:1.95s" x="40" y="496" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14" fill="#33ff66">nankai-CPP-AI-MUD-cyberworld/</text>
-      <text class="line" style="animation-delay:2.10s" x="40" y="548" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14">
-        <tspan fill="#33ff66">zhang</tspan><tspan fill="#1f9944">@nankai</tspan><tspan fill="#4d664d">:~$ </tspan><tspan fill="#ffbd2e">cat stack.txt</tspan>
-      </text>
-      <text class="line" style="animation-delay:2.25s" x="40" y="574" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14" fill="#33ff66">git, github, Python, PyTorch</text>
-      <text class="line" style="animation-delay:2.40s" x="40" y="626" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14">
         <tspan fill="#33ff66">zhang</tspan><tspan fill="#1f9944">@nankai</tspan><tspan fill="#4d664d">:~$ </tspan><tspan fill="#ffbd2e">cat about.txt</tspan>
       </text>
-      <text class="line" style="animation-delay:2.55s" x="40" y="652" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14">
+      <text class="line" style="animation-delay:1.95s" x="40" y="496" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14">
         <tspan fill="#4d664d">GitHub:   </tspan><tspan fill="#33ff66">kesizar</tspan>
       </text>
-      <text class="line" style="animation-delay:2.70s" x="40" y="678" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14" fill="#33ff66">欢迎交流：Agent · 大模型应用 · 游戏 AI</text>
-      <text class="line" style="animation-delay:2.85s" x="40" y="730" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14">
+      <text class="line" style="animation-delay:2.10s" x="40" y="522" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14" fill="#33ff66">欢迎交流：Agent · 大模型应用 · 游戏 AI</text>
+      <text class="line" style="animation-delay:2.25s" x="40" y="574" font-family="'Courier New', Courier, 'Noto Sans Mono CJK SC', 'NSimSun', monospace" font-size="14">
         <tspan fill="#33ff66">zhang</tspan><tspan fill="#1f9944">@nankai</tspan><tspan fill="#4d664d">:~$ </tspan>
       </text>
-      <rect class="cursor" x="176" y="717" width="9" height="16" fill="#33ff66"/>
+      <rect class="cursor" x="176" y="561" width="9" height="16" fill="#33ff66"/>
       </g>
     </g>
 
     <!-- 6. CRT 扫描线 + 刷新亮带（覆盖文字之上） -->
-    <rect x="16" y="16" width="868" height="768" fill="url(#scanlines)"/>
+    <rect x="16" y="16" width="868" height="588" fill="url(#scanlines)"/>
     <rect class="scanband" x="16" y="16" width="868" height="60" fill="url(#scanBand)"/>
 
     <!-- 7. 四角暗角 -->
-    <rect x="16" y="16" width="868" height="768" fill="url(#vignette)"/>
+    <rect x="16" y="16" width="868" height="588" fill="url(#vignette)"/>
   </g>
 </svg>
